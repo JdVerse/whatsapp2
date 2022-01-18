@@ -237,7 +237,7 @@ z-index:100;
 @media (max-width: 784px){
   width:90vw;
   position:absolute;
-  margin-bottom:40px;
+  margin-bottom:20px;
   margin-left:25px;
   border-radius:15px
 }
